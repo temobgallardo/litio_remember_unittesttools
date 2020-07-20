@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Litio.Remember.UnitTestTools.Models\Litio.Remember.UnitTestTools.Models.csproj" />
+  </ItemGroup>
+
+</Project>

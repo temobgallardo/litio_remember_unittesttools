@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FitDLNZDJd9rY/QPu94MV7p4ywoysH5goDk9xbumtUoCfsehBUJg9Q7/ael65zS0xE09bJ+ZLovSG6qr+BWjsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\temoB\\source\\repos\\Litio.Remember.UnitTestTools\\Litio.Remember.UnitTestTools.Core\\Litio.Remember.UnitTestTools.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\temoB\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\temoB\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

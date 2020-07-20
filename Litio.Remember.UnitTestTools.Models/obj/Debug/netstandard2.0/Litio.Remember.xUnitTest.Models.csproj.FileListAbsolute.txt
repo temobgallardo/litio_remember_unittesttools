@@ -1,0 +1,9 @@
+C:\Users\temoB\source\repos\Litio.Remember\Litio.Remember.xUnitTest.Models\bin\Debug\netstandard2.0\Litio.Remember.xUnitTest.Models.deps.json
+C:\Users\temoB\source\repos\Litio.Remember\Litio.Remember.xUnitTest.Models\bin\Debug\netstandard2.0\Litio.Remember.xUnitTest.Models.dll
+C:\Users\temoB\source\repos\Litio.Remember\Litio.Remember.xUnitTest.Models\bin\Debug\netstandard2.0\Litio.Remember.xUnitTest.Models.pdb
+C:\Users\temoB\source\repos\Litio.Remember\Litio.Remember.xUnitTest.Models\obj\Debug\netstandard2.0\Litio.Remember.xUnitTest.Models.csprojAssemblyReference.cache
+C:\Users\temoB\source\repos\Litio.Remember\Litio.Remember.xUnitTest.Models\obj\Debug\netstandard2.0\Litio.Remember.xUnitTest.Models.csproj.CoreCompileInputs.cache
+C:\Users\temoB\source\repos\Litio.Remember\Litio.Remember.xUnitTest.Models\obj\Debug\netstandard2.0\Litio.Remember.xUnitTest.Models.AssemblyInfoInputs.cache
+C:\Users\temoB\source\repos\Litio.Remember\Litio.Remember.xUnitTest.Models\obj\Debug\netstandard2.0\Litio.Remember.xUnitTest.Models.AssemblyInfo.cs
+C:\Users\temoB\source\repos\Litio.Remember\Litio.Remember.xUnitTest.Models\obj\Debug\netstandard2.0\Litio.Remember.xUnitTest.Models.dll
+C:\Users\temoB\source\repos\Litio.Remember\Litio.Remember.xUnitTest.Models\obj\Debug\netstandard2.0\Litio.Remember.xUnitTest.Models.pdb
